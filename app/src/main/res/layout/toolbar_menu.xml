@@ -17,7 +17,6 @@
         app:shadow_color="#66000000"
         app:shadow_thickness="5dp">
     <LinearLayout
-        android:id="@+id/cmx_toolbar_menu_turn_off"
         android:layout_width="wrap_content"
         android:layout_height="42dp">
         <TextView
@@ -32,7 +31,6 @@
             android:text="Menu Item #1"/>
     </LinearLayout>
     <LinearLayout
-        android:id="@+id/cmx_toolbar_menu_feedback"
         android:layout_width="wrap_content"
         android:layout_height="42dp">
         <TextView
